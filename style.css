@@ -79,3 +79,16 @@ footer {
 		opacity: 1;
 	}
 }
+
+#cabecera{
+    color:#333;
+    padding: 5em;
+    margin: 5em;
+    font-size: larger;
+    border: 1px solid;
+    -webkit-box-shadow: -20px 13px 27px -7px rgb(201, 217, 201);
+    -moz-box-shadow: -20px 13px 27px -7px rgba(40,219,40,1);
+    box-shadow: -20px 13px 27px -7px rgb(111, 118, 111);
+
+    
+}
