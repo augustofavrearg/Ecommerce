@@ -89,6 +89,8 @@ footer {
     -webkit-box-shadow: -20px 13px 27px -7px rgb(201, 217, 201);
     -moz-box-shadow: -20px 13px 27px -7px rgba(40,219,40,1);
     box-shadow: -20px 13px 27px -7px rgb(111, 118, 111);
-
+    animation-name: fade-in;
+	animation-duration: 1s;
+	animation-timing-function: ease-in-out;
     
 }
