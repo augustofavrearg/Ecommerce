@@ -3,6 +3,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
 	event.preventDefault(); // Prevent form submission
 	alert('Thanks for subscribing!'); // Display alert message
 });
+
 document.querySelector('form').addEventListener('submit', function(event) {
 	event.preventDefault();
 	
@@ -12,6 +13,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
 	
 	alert('Thanks for subscribing, ' + name + '! We will send updates to ' + email + '.');
 });
+
 document.querySelector('form').addEventListener('submit', function(event) {
 	event.preventDefault();
 	
@@ -26,6 +28,7 @@ document.querySelector('form').addEventListener('submit', function(event) {
 	
 	alert('Thanks for subscribing, ' + name + '! We will send updates to ' + email + '.');
 });
+
 document.querySelector('form').addEventListener('submit', function(event) {
 	event.preventDefault();
 	
